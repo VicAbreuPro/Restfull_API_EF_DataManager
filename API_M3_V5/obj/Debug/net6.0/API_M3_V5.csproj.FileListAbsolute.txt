@@ -1,0 +1,204 @@
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\appsettings.json
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\API_M3_V5.exe
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\API_M3_V5.deps.json
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\API_M3_V5.runtimeconfig.json
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\API_M3_V5.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\API_M3_V5.pdb
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\obj\Debug\net6.0\API_M3_V5.csproj.AssemblyReference.cache
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\obj\Debug\net6.0\API_M3_V5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\obj\Debug\net6.0\API_M3_V5.AssemblyInfoInputs.cache
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\obj\Debug\net6.0\API_M3_V5.AssemblyInfo.cs
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\obj\Debug\net6.0\API_M3_V5.csproj.CoreCompileInputs.cache
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\obj\Debug\net6.0\API_M3_V5.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\obj\Debug\net6.0\API_M3_V5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\obj\Debug\net6.0\scopedcss\bundle\API_M3_V5.styles.css
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\obj\Debug\net6.0\API_M3_V5.csproj.CopyComplete
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\obj\Debug\net6.0\API_M3_V5.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\obj\Debug\net6.0\refint\API_M3_V5.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\obj\Debug\net6.0\API_M3_V5.pdb
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\obj\Debug\net6.0\API_M3_V5.genruntimeconfig.cache
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\obj\Debug\net6.0\ref\API_M3_V5.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\appsettings.json
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\API_M3_V5.exe
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\API_M3_V5.deps.json
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\API_M3_V5.runtimeconfig.json
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\API_M3_V5.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\API_M3_V5.pdb
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\obj\Debug\net6.0\API_M3_V5.csproj.AssemblyReference.cache
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\obj\Debug\net6.0\API_M3_V5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\obj\Debug\net6.0\API_M3_V5.AssemblyInfoInputs.cache
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\obj\Debug\net6.0\API_M3_V5.AssemblyInfo.cs
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\obj\Debug\net6.0\API_M3_V5.csproj.CoreCompileInputs.cache
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\obj\Debug\net6.0\API_M3_V5.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\obj\Debug\net6.0\API_M3_V5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\obj\Debug\net6.0\scopedcss\bundle\API_M3_V5.styles.css
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\obj\Debug\net6.0\API_M3_V5.csproj.CopyComplete
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\obj\Debug\net6.0\API_M3_V5.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\obj\Debug\net6.0\refint\API_M3_V5.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\obj\Debug\net6.0\API_M3_V5.pdb
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\obj\Debug\net6.0\API_M3_V5.genruntimeconfig.cache
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V5 - Cópia\API_M3_V5\obj\Debug\net6.0\ref\API_M3_V5.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\appsettings.json
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\API_M3_V5.exe
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\API_M3_V5.deps.json
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\API_M3_V5.runtimeconfig.json
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\API_M3_V5.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\API_M3_V5.pdb
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\obj\Debug\net6.0\API_M3_V5.csproj.AssemblyReference.cache
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\obj\Debug\net6.0\API_M3_V5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\obj\Debug\net6.0\API_M3_V5.AssemblyInfoInputs.cache
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\obj\Debug\net6.0\API_M3_V5.AssemblyInfo.cs
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\obj\Debug\net6.0\API_M3_V5.csproj.CoreCompileInputs.cache
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\obj\Debug\net6.0\API_M3_V5.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\obj\Debug\net6.0\API_M3_V5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\obj\Debug\net6.0\scopedcss\bundle\API_M3_V5.styles.css
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\obj\Debug\net6.0\API_M3_V5.csproj.CopyComplete
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\obj\Debug\net6.0\API_M3_V5.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\obj\Debug\net6.0\refint\API_M3_V5.dll
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\obj\Debug\net6.0\API_M3_V5.pdb
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\obj\Debug\net6.0\API_M3_V5.genruntimeconfig.cache
+C:\Users\Victor Abreu\Documents\ProgramZ\API_M3_V6\API_M3_V5\obj\Debug\net6.0\ref\API_M3_V5.dll
